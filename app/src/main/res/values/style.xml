@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="ProgressText" parent="Widget.AppCompat.TextView">
+        <item name="android:textColor">@color/dark_green</item>
+        <item name="android:textSize">70sp</item>
+
+    </style>
+    <style name="StartButton" parent="Widget.MaterialComponents.Button.OutlinedButton">
+        <item name="cornerSize">8dp</item>
+        <item name="strokeWidth">3dp</item>
+        <item name="android:textSize">35sp</item>
+    </style>
+
+</resources>

@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">alextimofeev_android_hw10</string>
+    <string name="main_title">Countdown Timer</string>
+    <string name="progress_text">0</string>
+    <string name="str_text">ON/OFF</string>
+
+</resources>
